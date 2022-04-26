@@ -1,5 +1,3 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGDLURwP-MxHQ/profile-displaybackgroundimage-shrink_350_1400/0/1624432677770?e=1649894400&v=beta&t=9ftvnINumN5h6vFaR-FyTOl-2Ov9sR28qcB_c-SqH5k)
-
 <h1 align="center">Hi 👋, I'm Nikhil Budhiraja</h1>
 <h3 align="center">I am currently pursuing my Bachelors in Computer Science (pre-final year) and have solid works done in the domains of AI/ML with Python.Apart from my Technical skills, I have been actively showcasing my Non-Technical skills like Management, Marketing, and Growth via working with college clubs like Amity AI Club.</h3>
 
