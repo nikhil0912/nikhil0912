@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Budhiraja</h1>
-<h3 align="center">I am currently pursuing my Bachelors in Computer Science (pre-final year) and have solid works done in the domains of AI/ML with Python.Apart from my Technical skills, I have been actively showcasing my Non-Technical skills like Management, Marketing, and Growth via working with college clubs like Amity AI Club.</h3>
+<h3 align="center">I am currently pursuing my Bachelors in Computer Science (final year) and have solid works done in the domains of AI/ML with Python.Apart from my Technical skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil0912&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil0912" /> </p>
 
