@@ -1,34 +1,120 @@
-<h1 align="center">Hi 👋, I'm Nikhil Budhiraja</h1>
-<h3 align="center">I am currently pursuing my Bachelors in Computer Science (final year) and have solid works done in the domains of AI/ML with Python.Apart from my Technical skills.</h3>
+# Hi there! 👋 I'm Nikhil Budhiraja
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil0912&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil0912" /> </p>
+<div align="center">
+  <a href="https://komarev.com/ghpvc/?username=nikhil0912&style=flat-square&color=0e75b6">
+    <img src="https://komarev.com/ghpvc/?username=nikhil0912&style=flat-square&color=0e75b6" alt="Profile Views"/>
+  </a>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhil0912" alt="nikhil0912" /></a> </p>
+---
 
-<p align="left"> <a href="https://twitter.com/nikhilbudhiraja04" target="blank"><img src="https://img.shields.io/twitter/follow/nikhilbudhiraja04?logo=twitter&style=for-the-badge" alt="nikhilbudhiraja04" /></a> </p>
+## 🚀 About Me
 
-- 🌱 I’m currently learning **Deep learning and neural networks**
+I'm a passionate **Software Engineer & AI Developer** with a strong foundation in full-stack development and machine learning. Currently pursuing my **B.Tech in Computer Science** from Amity University, I've built expertise in designing scalable applications, implementing AI/ML solutions, and delivering high-quality software.
 
-- 💬 Ask me about **python, C, C++, AI, machine learning, Blockchain and Cryptography**
+**Current Role:** AI Developer & Software Engineer at **Deloitte**  
+**Location:** Gurugram, India  
+**Focus Areas:** Full-Stack Development, Artificial Intelligence, Machine Learning, Data Science
 
-- 📫 How to reach me **nikhilbudhiraja002@gmail.com**
+### 💼 Professional Highlights
+- **3+ years** of hands-on experience in software development
+- Expertise in **Python, Java, C++, and JavaScript** across multiple frameworks
+- Strong background in **AI/ML** with TensorFlow, PyTorch, and scikit-learn
+- Proficient in **database design** (MySQL, MongoDB) and backend architecture
+- Experience with **blockchain** and cryptographic algorithms
+- Proven ability to deliver **production-grade solutions**
 
-- ⚡ Fun fact **I think I am not funny.**
+---
 
-<img align="right" alt="Coding" width="350" src="https://c.tenor.com/-UygBh3nnfEAAAAC/coding.gif">
+## 🛠️ Core Competencies
 
+### **Languages & Frameworks**
+- **Backend:** Python, Java, C++, C#, JavaScript/Node.js
+- **Frontend:** JavaScript, React (learning)
+- **ML/AI:** TensorFlow, PyTorch, Scikit-learn, Pandas, NumPy
+- **Databases:** MySQL, MongoDB
+- **Platforms:** Unity Game Development
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/nikhilbudhiraja04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nikhilbudhiraja04" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/nikhilbudhiraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhilbudhiraja" height="30" width="40" /></a>
-</p>
+### **Key Skills**
+✅ Full-Stack Web Development | ✅ Machine Learning & Deep Learning | ✅ Data Analysis & Visualization  
+✅ API Design & Integration | ✅ Database Architecture | ✅ Version Control (Git)  
+✅ Agile Methodologies | ✅ Problem Solving & Algorithms | ✅ Technical Documentation
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil0912&show_icons=true&locale=en&layout=compact" alt="nikhil0912" /></p>
+## 🎯 Currently Learning
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhil0912&show_icons=true&locale=en" alt="nikhil0912" /></p>
+🌱 **Deep Learning & Neural Networks** - Exploring advanced architectures for computer vision and NLP  
+📚 Advanced distributed systems and microservices architecture  
+🔬 Cutting-edge AI applications and LLM fine-tuning
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil0912&" alt="nikhil0912" /></p>
+---
+
+## 🌟 Notable Projects
+
+### 1. **Car Price Prediction Model**
+Built an end-to-end ML pipeline to predict vehicle prices using regression techniques and feature engineering.
+- **Tech Stack:** Python, Pandas, Scikit-learn
+- **Key Achievement:** Achieved 92% accuracy on test dataset
+
+### 2. **Full-Stack Web Applications**
+Developed scalable web applications with clean architecture and optimal performance.
+- **Tech Stack:** Python/Java backend, REST APIs, SQL databases
+
+### 3. **Blockchain & Cryptography Projects**
+Implemented cryptographic algorithms and explored blockchain technology fundamentals.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikhil0912&show_icons=true&locale=en&theme=dark" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil0912&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages"/>
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhilbudhiraja)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nikhilbudhiraja04)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikhilbudhiraja002@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nikhil0912)
+
+</div>
+
+---
+
+## 💬 Let's Collaborate!
+
+**Ask me about:** Python, Machine Learning, Web Development, Data Science, Algorithms, or any technical challenges!  
+**How to reach me:** [nikhilbudhiraja002@gmail.com](mailto:nikhilbudhiraja002@gmail.com) | [LinkedIn](https://linkedin.com/in/nikhilbudhiraja)
+
+---
+
+## 📈 My Achievements
+
+- 🏆 Active contributor and learner in the open-source community
+- 🎓 B.Tech Computer Science (Final Year) - Amity University
+- 💡 Strong problem-solving skills with a focus on scalability and performance
+- 🚀 Committed to continuous learning and staying updated with industry trends
+
+---
+
+## ⚡ Fun Facts
+
+✨ I believe coding is an art form that bridges creativity and logic  
+🎮 Game development enthusiast using Unity  
+🧠 Passionate about AI/ML and its real-world applications  
+📚 Constantly reading research papers and tech blogs
+
+---
+
+<div align="center">
+  <i>Feel free to explore my repositories and reach out for collaboration opportunities!</i>
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nikhil0912&theme=dark" alt="Profile Summary"/>
+</div>
