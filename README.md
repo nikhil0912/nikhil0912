@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Software Engineer & AI Developer** with a strong foundation in full-stack development and machine learning. Currently pursuing my **B.Tech in Computer Science** from Amity University, I've built expertise in designing scalable applications, implementing AI/ML solutions, and delivering high-quality software.
+I'm a passionate **Software Engineer & AI Developer** with a strong foundation in full-stack development and machine learning. Pursued my **B.Tech in Computer Science** from Amity University, I've built expertise in designing scalable applications, implementing AI/ML solutions, and delivering high-quality software.
 
 **Current Role:** AI Developer & Software Engineer at **Deloitte**  
 **Location:** Gurugram, India  
